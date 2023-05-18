@@ -1,8 +1,9 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
+<div align="center">
 ![Artur-cortez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Artur-cortez&theme=vue-dark&hide_border=true)
-
+</div>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
