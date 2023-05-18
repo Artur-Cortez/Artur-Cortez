@@ -32,6 +32,7 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-cortez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Artur-cortez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Artur-cortez&theme=vue-dark&hide_border=true)
+![Artur-cortez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-cortez&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
 -->
